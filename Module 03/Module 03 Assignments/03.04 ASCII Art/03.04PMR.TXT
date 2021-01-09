@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: ASCII Art
+PURPOSE OF PROJECT: To create ASCII using keyboard characters
+VERSION or DATE:24/06/18
+AUTHORS:Nina Nielsen 
+
+***********************************PMR*****************************************
+<+s> I think I was able to creating my design without any trouble. 
+
+<-s> Although it wasn't difficult for me to create my design using string objects,
+     I got confused when trying to print them. 
+********************************************************************************
+In the future: I would want to create a more complex visual using keyboard characters without
+               any confusion.   
