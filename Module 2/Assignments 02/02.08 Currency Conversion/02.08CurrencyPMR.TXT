@@ -1,0 +1,25 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Currency Conversion
+PURPOSE OF PROJECT: To convert the currency of one country to another country using the currency exchange rate.
+VERSION or DATE: 06/21/2018
+AUTHORS: Nina Nielsen
+
+****************************************PMR******************************************************
+<+s> I was able to do the first part of this assignment with no difficulty. It was very easy for me
+     to input the currency exchange and calculate the remaining dollars. 
+
+     I used the Bank of America site to find the currency exchange rate. 
+     Link: https://www.bankofamerica.com/foreign-exchange/foreign-currency-exchange.go
+     
+<-s> It took me a long time to calculate the remainding funds for the second part of this assignment 
+     since I was trying to calculate it by inputting the code: budget2 % totalItems2, instead of 
+     budget2 % costItem2. I later figured out my mistake and was able to fix my problem. 
+     
+*************************************************************************************************
+In the Future: I want to improve on my understanding of data types and the values of data types. 
+               I also want to be able to perform casting without any confusion. 
