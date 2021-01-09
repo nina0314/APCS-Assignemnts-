@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE:GradesV2
+PURPOSE OF PROJECT: To calculate the total points that a student received from all the tests they took and calculate the average of all tests combined. 
+VERSION or DATE:21/06/2018
+AUTHORS:Nina Nielsen
+*************************************PMR*****************************************  
+<+s> I did well on the formatting design. Although I got confused at first, I was able
+     to input the codes in the right places and calculate the total points and average 
+     grade accurately without any errors. 
+     
+<-s> Although I found the proper way to calculate the average and had no problem in this 
+     assignment, I struggled to answer the questions on the practice test regarding the casting 
+     problems. I especially had some difficulty on answering the value and the data type of a value. 
+     
+*********************************************************************************
+In the future: I would want to get a better understanding on data types and the values of data types. 
