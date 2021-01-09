@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: GradesV3
+PURPOSE OF PROJECT: To understand the way of using the scanner class method correctly and to let the user interact with the program by entering input on the keyboard.
+VERSION or DATE: 02/07/2018
+AUTHORS: Nina Nielsen
+
+****************************************PMR***************************************
+<+s> I was able to understand the way of using the Scanner class method correctly without any confusion. 
+     I was also able to calculate the accurate average grade without any trouble. 
+     
+<-s> I did not have any troubles in this assignment and was able to do it without any confusion. 
+     However, I do have some trouble with understanding string methods.
+     
+***********************************************************************************
+In the future: I want to get a better understanding of string methods and be able to use them without any confusion/trouble.
+
