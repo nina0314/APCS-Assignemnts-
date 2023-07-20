@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CylinderVolume
+comment0.text=\n\ This\ program\ uses\ methods\ to\ calculate\ the\ volume\ of\ a\ cylinder.\n\ Also\ illustrates\ use\ of\ Math\ class\ methods.\n\n\ @author\ Grace\ Hopper\n\ @version\ 06/07/17\n
+comment1.params=r
+comment1.target=double\ calcCircleArea(double)
+comment2.params=a\ h
+comment2.target=double\ calcCylinderVol(double,\ double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=l\ h
+comment4.target=double\ calcRectangleArea(double,\ double)
+comment5.params=b\ t
+comment5.target=double\ calcTriangleArea(double,\ double)
+comment6.params=s
+comment6.target=int\ someMethod(java.lang.String)
+numComments=7
