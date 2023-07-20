@@ -1,0 +1,63 @@
+
+/**
+ * The purpose of this program is to illustrate the use of
+ * the for loop as a counter.
+ *
+ * Nina Nielsen
+ * 02/08/2018
+ */
+import java.util.ArrayList;
+import java.util.List;
+ public class Shape
+  {
+     public static void main(String [] args)
+     {
+    ArrayList < Integer > a = new ArrayList < Integer >();
+    ArrayList b = a;
+    a.add(4);
+    b.add(5);
+    a.add(6);
+    b.add(7);
+    //System.out.println(b.get(2));
+    
+    Shape d = new Shape();
+    
+    //System.out.println(d.mystery(9));
+    
+    
+    int arr[][] = {{1, 2, 3, 4},
+               {5, 6, 7, 8},
+               {9, 10, 11, 12}};
+               
+    //System.out.println(arr[2][3]);
+    
+    int i = 8;
+
+while(i <= 25)
+{
+   System.out.print(i + " ");
+   if((i % 3) == 0)
+   {
+      i *= 2;
+   }
+   else
+   {
+      i -= 2;
+   }
+}
+   
+    }
+    public int mystery(int n)
+   {
+   if(n > 5)
+   {
+      return 1 + mystery(n - 1);
+   }
+   return n % 3;
+ }
+}
+    
+  
+
+    //end of main method
+//end of class
