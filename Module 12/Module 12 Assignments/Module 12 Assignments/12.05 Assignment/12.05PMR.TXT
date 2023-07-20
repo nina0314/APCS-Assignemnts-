@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+
+PURPOSE OF PROJECT:This program uses user input to calculate the fibonacci number.
+VERSION or DATE: 12/27/2018
+AUTHORS:Nina Nielsen
+
+******************************PMR****************************************
+<+s> I was able to calculate the fibonacciNum without any confusion.
+
+
+<-s> It took me some time to figure out where to put the while loop. However, I was able t o figure out my problem. 
+*************************************************************************
+In the future: Practice more with OOP.  
+
