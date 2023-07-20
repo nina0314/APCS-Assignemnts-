@@ -1,0 +1,36 @@
+
+ 
+ Initialise user input to int
+ Initialise total to 0
+ Scanner in = new Scanner(System.in);
+ Random randNumList = new Random();
+ PrintWriter outFile = new PrintWriter(new File(“Hyena.txt”)); 
+
+ Print name of Simulator
+ Ask user the number of trials they want to simulate
+ Ask them to input a number greater or equal to 1000
+
+ Begin While Loop 
+ If user enters a number less than 1000
+ Ask user to try again
+ End While Loop 
+
+ Begin For Loop 
+ When value is greater or equal to 1000 and user input is equal to loop
+ Initialise randNum to 0.
+ Begin While Loop
+ When randNum does not equal to 10 
+ Randomise integers from 1 - 10
+ Print all integers to the Hyena.txt
+ Add total numbers 
+ End While Loop 
+ End For Loop
+
+ Initialise average to double and calculate average by dividing total by          
+ trials 
+ Print “Simulating trials now.. please wait one moment…”
+ Print results 
+ Print average 
+ Close file
+ 
+ 

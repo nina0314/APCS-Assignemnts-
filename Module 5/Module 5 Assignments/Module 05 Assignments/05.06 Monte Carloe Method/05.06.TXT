@@ -1,0 +1,15 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+PURPOSE OF PROJECT:This program will calculate the average number of Hyenas before spotting a Striped Hyena.
+VERSION or DATE: 06/08/2018
+AUTHORS:Nina Nielsen
+**************************************PMR********************************
+<+s> I was able to calculate the average and ask for user input without any confusion.
+
+<-s> I was struggling with the while loops and for loops to get accurate results. 
+*************************************************************************
+In the Future: I would like to get better at using loops more efficiently and would also like to get used to using the outFile method. 
+

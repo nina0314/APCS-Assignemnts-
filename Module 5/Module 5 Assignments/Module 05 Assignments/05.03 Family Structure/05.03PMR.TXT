@@ -1,0 +1,18 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PURPOSE OF PROJECT:This program calculates the percentage of 3 different combinations of families with two children. 
+VERSION or DATE: 02/08/2018
+AUTHORS:Nina Nielsen
+
+****************************PMR******************************************
+<+s> I was able to calculate the percentage of each combinations without any confusion. 
+
+<-s> Although it took me a while to understand what I needed to put in to create a accurate program, I was able to figure it out.
+
+*************************************************************************
+In the future: I would like to get better at creating loop structures without any confusion. I also want to get better at using if-else structures as well. 
+

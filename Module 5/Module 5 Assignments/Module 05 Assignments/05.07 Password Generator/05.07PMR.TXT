@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PURPOSE OF PROJECT:This program generates characters based on the users input to produce a randomised password.  
+VERSION or DATE: 07/08/2018
+AUTHORS: Nina Nielsen 
+
+******************************PMR****************************************
+<+s> I had no problem creating the first part of the program (menu and while loops for invalid option)
+
+<-s> I struggled when creating the code to determine the range of numbers that was needed to generate the desired characters and trying to get the accurate results.
+     However, in the end I was able to find out what I was doing wrong and what I needed to add/fix.  
+**************************************************************************
+In the future: I want to get better at using loops (especially for loops), and also want to get used to using nested loops. 
