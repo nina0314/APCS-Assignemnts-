@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=CatapultApplesTester
-comment0.text=\n\ This\ program\ calculates\ the\ distance\ in\ feet\ of\ the\ apple\ after\ launched\ at\ different\ speeds\ and\ angles.\ \ \n\n\ @Nina\ Nielsen\n\ @Nov\ 8\ 2018\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
