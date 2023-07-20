@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=V8
+comment0.text=\n\ This\ program\ prints\ out\ how\ many\ calories\ each\ person\ had\ in\ a\ day\ and\ calculates\ the\ average\ between\ the\ calories\ they\ had\ at\ lunch\ and\ dinner.\ \n\n\ Nina\ Nielsen\n\ 10/29/2018\n
+comment1.params=name\ age\ lunCal\ dinCal
+comment1.target=V8(java.lang.String,\ int,\ double,\ double)
+comment10.params=dinCal
+comment10.target=void\ setDinCal(double)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ calcAvgCalories()
+comment3.params=
+comment3.target=double\ getAverageCalories()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getAge()
+comment6.params=
+comment6.target=double\ getLunCal()
+comment7.params=
+comment7.target=double\ getDinCal()
+comment8.params=age
+comment8.target=void\ setAge(int)
+comment9.params=lunCal
+comment9.target=void\ setLunCal(double)
+numComments=12

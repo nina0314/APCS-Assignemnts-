@@ -1,0 +1,20 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PURPOSE OF PROJECT:This program prints out how many calories each person had in a day and calculates the average between the calories they had at lunch and dinner. 
+VERSION or DATE:31/10/2018
+AUTHORS:Nina Nielsen
+
+*********************************PMR***************************************
+<+s> I think I am getting better at using methods and using the OOP format.
+
+
+<-s> I am still a bit confused printing out arrays but I think I am getting to understand the OOP format more.
+
+***************************************************************************
+In the Future: Practice using OOP format.  
+ 
+

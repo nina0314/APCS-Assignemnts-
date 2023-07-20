@@ -1,0 +1,18 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+
+PURPOSE OF PROJECT:This class uses the number of trials and number of darts used to make calculations to find the number of hits and the average, maximum, and minimum pi..
+VERSION or DATE: 11/05/2018
+AUTHORS: Nina Nielsen 
+
+********************************PMR*************************************
+<+s> I think I was able to create methods and declare private variables, and calculate methods without any confusion.
+
+<-s> I was a bit stuck when trying to find the maximum and minimum value since I could not use the void methods. However, I figured out that I needed to use the get method. 
+
+************************************************************************
+In the Future: Practice more using OOP. 

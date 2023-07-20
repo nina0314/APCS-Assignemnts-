@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=EstimatePI
+comment1.params=numberDarts\ trials
+comment1.target=EstimatePI(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ type\ EstimatePI\n\ @parameter\ number\ of\ Darts\ used\ in\ each\ trial\n\ @parameter\ number\ of\ trial\n\ \n
+comment2.params=
+comment2.target=int\ getTrials()
+comment2.text=\n\ Getter\ method\ to\ return\ the\ trial\ number\ (no\ parameter)\n\ @return\ trial\ number\ \n
+comment3.params=
+comment3.target=int\ getNumberDarts()
+comment3.text=\n\ Getter\ method\ to\ return\ the\ number\ of\ darts\ (no\ parameter)\n\ @return\ number\ of\ darts\n
+comment4.params=
+comment4.target=void\ calcNumberHits()
+comment4.text=\n\ mutator\ method\ to\ calculate\ the\ number\ of\ hits\ (no\ parameter)\n
+comment5.params=
+comment5.target=int\ getCalcNumberHits()
+comment5.text=\n\ Getter\ method\ to\ return\ the\ number\ of\ hits\ (no\ parameter)\n\ @return\ number\ of\ hits\ \n
+comment6.params=
+comment6.target=void\ calcPI()
+comment6.text=\n\ mutator\ method\ to\ calculate\ the\ pi\ (no\ parameter)\n
+comment7.params=
+comment7.target=double\ getCalcPI()
+comment7.text=\n\ Getter\ method\ to\ return\ pi\ (no\ parameter)\n\ @return\ pi\ \ \n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

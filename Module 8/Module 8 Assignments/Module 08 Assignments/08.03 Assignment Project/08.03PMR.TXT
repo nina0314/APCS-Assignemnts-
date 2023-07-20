@@ -1,0 +1,20 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+
+PURPOSE OF PROJECT: This program uses the two calories of pizza and pasta to find the difference between them and the average of the two. 
+VERSION or DATE: October 27, 2018
+AUTHORS:Nina Nielsen
+
+*********************************PMR************************************
+<+> I think I am now able to make multiple methods without any confusion. 
+    I also am now able to use the printf method without any problem as well.
+
+
+<-s> I am still a bit confused about the object oriented method but I know I will understand it the more I practice using it. 
+
+*************************************************************************
+In the future: Practice using the object oriented format!! 

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CO2FootprintV2Tester
+comment0.text=\n\ \ Purpose\:\ This\ program\ uses\ the\ gallons\ of\ gas\ emissions\ and\ converts\ it\ into\ pounds\ and\ tons\ and\ prints\ the\ results.\n\ \ \n\ @\ Name\:\ Nina\ Nielsen\n\ \n\ @\ Date\:\ Oct\ 31\ 2018\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

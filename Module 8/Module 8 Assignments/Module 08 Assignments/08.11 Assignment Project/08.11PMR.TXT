@@ -1,0 +1,18 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+
+PURPOSE OF PROJECT:The purpose of this program is to calculate the total emission, the reduction, and the net reduction of emission from a household based on the number of people in a household and what they recycle. 
+VERSION or DATE: 11/04/2018
+AUTHORS: Nina Nielsen
+
+*******************************PMR**************************************
+<+s> I think I was able to perform the calculations without confusion.
+
+<-s> I am still struggling with the dataRecord and how to use it.
+
+***********************************************************************
+In the Future: I am going to get better at using dataRecord by practice.  

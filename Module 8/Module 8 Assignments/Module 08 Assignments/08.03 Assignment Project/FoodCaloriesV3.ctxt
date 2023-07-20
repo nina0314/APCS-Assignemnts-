@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FoodCaloriesV3
+comment0.text=\n\ This\ program\ uses\ the\ two\ calories\ of\ pizza\ and\ pasta\ to\ find\ the\ difference\ between\ them\ and\ the\ average\ of\ the\ two.\ \n\n\ Nina\ Nielsen\n\ 10/27/2018\n
+comment1.params=
+comment1.target=FoodCaloriesV3()
+comment2.params=c1\ c2
+comment2.target=double\ calcDiffCalories(double,\ double)
+comment3.params=c1\ c2
+comment3.target=double\ calcAvgCalories(double,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

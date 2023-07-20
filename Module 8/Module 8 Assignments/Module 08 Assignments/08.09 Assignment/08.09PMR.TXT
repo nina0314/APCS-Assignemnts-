@@ -1,0 +1,18 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+
+PURPOSE OF PROJECT:This program uses the gallons of gas emissions and converts it into pounds and tons and prints the results.
+VERSION or DATE: October 31, 2018 
+AUTHORS: Nina Nielsen
+
+**********************************PMR*************************************
+<+s> I can now write javadoc comments for all methods and constructors. 
+
+
+<-s> I still am a bit confused with precondition and postcondition.
+**************************************************************************
+In the Future: When programming, write javadoc comments for all methods, constructors, and  headings so that viewers can understand my program without confusion. 

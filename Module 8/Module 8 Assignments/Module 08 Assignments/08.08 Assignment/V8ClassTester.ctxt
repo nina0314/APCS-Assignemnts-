@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=V8ClassTester
+comment0.text=\n\ This\ program\ prints\ out\ how\ many\ calories\ each\ person\ had\ in\ a\ day\ and\ calculates\ the\ average\ between\ the\ calories\ they\ had\ at\ lunch\ and\ dinner.\ \n\n\ Nina\ Nielsen\n\ 29/10/2018\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
