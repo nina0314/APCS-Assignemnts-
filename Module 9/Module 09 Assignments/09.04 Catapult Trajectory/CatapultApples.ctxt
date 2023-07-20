@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CatapultApples
+comment0.text=\n\ This\ program\ calculates\ the\ distance\ in\ feet\ of\ the\ apple\ after\ launched\ at\ different\ speeds\ and\ angles.\ \n\n\ @Nina\ Nielsen\n\ @Nov\ 8\ 2018\ \n
+comment1.params=
+comment1.target=CatapultApples()
+comment1.text=\n\ Constructor\ for\ objects\ of\ type\ CatapultApples\n\ @nothing\ in\ parameter\ \n
+comment2.params=speed\ angles
+comment2.target=double\ calcDistance(int,\ double)
+comment2.text=\n\ method\ to\ calculate\ distance\ \n\ @parameter\ includes\ speed\ and\ angles\ \n\ @return\ distance\ 1\n
+numComments=3
