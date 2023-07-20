@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Hurricane Selector 
+PURPOSE OF PROJECT: This program prints out data (category, pressure, mph..) of Hurricanes based on the range of years the user inputs (1995 to 2015).
+VERSION or DATE: 01/09/2018
+AUTHORS: Nina Nielsen
+
+***************************PMR******************************
+<+s> I had no problem using the for loops and if else condition. I also had no problem reading files and printing code into new files. 
+
+<-s> I struggled a bit when trying to find a way to print each data array within a specific range. I also do not really know when I should include for-each loops. 
+************************************************************
+In the future: I want to be more familiar with the for-each loops and use the enhanced loops in my program. 

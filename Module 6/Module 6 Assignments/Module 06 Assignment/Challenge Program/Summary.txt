@@ -1,0 +1,7 @@
+
+ Summary of Categories:
+ Cat 1: 62
+ Cat 2: 24
+ Cat 3: 28
+ Cat 4: 33
+ Cat 5: 9

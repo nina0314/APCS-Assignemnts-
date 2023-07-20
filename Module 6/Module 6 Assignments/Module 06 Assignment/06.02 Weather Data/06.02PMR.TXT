@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+
+PURPOSE OF PROJECT: This project prints out the data of temperature and precipitation and calculates the average and total based on user input. 
+VERSION or DATE: 28/08/2017
+AUTHORS: Nina Nielsen 
+
+**********************************PMR************************************** 
+<+s> I think I did not have much difficulty in using the loops and if or if - else conditions.
+
+<-s> I am still not use to the printf() method, and therefore struggled a bit. 
+***************************************************************************
+In the Future: In addition to getting better at using loops, I would want to get better at using the printf() method without any confusion. 
