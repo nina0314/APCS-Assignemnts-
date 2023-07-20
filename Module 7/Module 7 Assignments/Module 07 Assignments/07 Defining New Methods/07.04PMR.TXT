@@ -1,0 +1,20 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+
+PURPOSE OF PROJECT: 
+This program reads the data that includes the surfaceGravity of each planet and calculates the weight of the user on those planets based on their input.
+VERSION or DATE: 10/1/2018
+AUTHORS: Nina Nielsen
+
+
+*****************************PMR********************************
+<+s> I was able to organise the static methods without any confusion by using a planning sheet. 
+
+<-s> I still am a bit confused with some parts of the static methods but I am getting better. 
+
+****************************************************************
+In the Future: Practice and get used to using static methods. 

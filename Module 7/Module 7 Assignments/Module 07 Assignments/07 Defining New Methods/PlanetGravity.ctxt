@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PlanetGravity
+comment1.params=diameter\ mass
+comment1.target=double[]\ gravity(double[],\ double[])
+comment2.params=planet\ diameter\ mass\ surfaceGravity
+comment2.target=void\ printResults(java.lang.String[],\ double[],\ double[],\ double[])
+comment3.params=surfaceGravity
+comment3.target=void\ file(double[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

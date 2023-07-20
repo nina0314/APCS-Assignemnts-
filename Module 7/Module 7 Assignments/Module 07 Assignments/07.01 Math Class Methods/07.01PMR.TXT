@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PURPOSE OF PROJECT: This program asks for user to input radius and x coordinate. Then it calculates the y value and prints the output.
+VERSION or DATE: 13/09/2018
+AUTHORS: Nina Nielsen
+
+****************************PMR*****************************************
+<+s>  I think I am gettin more used to loops and have not had any problems when using them. 
+
+<-s> It took me some time to organize the output using the printf() method. 
+
+************************************************************************
+In the future: I would want to be able to use the printf() method without having to spend a lot of time trying to organize the ouput. 

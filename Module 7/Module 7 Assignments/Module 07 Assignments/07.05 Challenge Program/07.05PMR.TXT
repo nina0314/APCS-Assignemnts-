@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+
+PURPOSE OF PROJECT: This program finds the estimate of pi based on user input of number of trials and darts per trial. 
+VERSION or DATE:03/10/2018 
+AUTHORS:Nina Nielsen
+
+*****************************PMR*************************************
+<+s> I think I am getting better at using methods and am also getting more used to using arrays. 
+
+<-s> Although I am getting better at using methods, I struggled a bit in the beginning and therefore want to get more used to using methods. 
+*********************************************************************
+In the future: Practice using methods and arrays more so I can use it without any struggle. 
